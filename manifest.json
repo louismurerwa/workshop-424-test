@@ -22,5 +22,13 @@
         "*.jpeg",
         "*.png",
         "*.json"
+      ],
+      "permissions": [
+        "tabs",
+        "storage",
+        "notifications",
+        "http://*/",
+        "https://*/"
       ]
+
   }
